@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\bin\Debug\Nummpad Macro.exe.config
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\bin\Debug\Nummpad Macro.exe
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\bin\Debug\Nummpad Macro.pdb
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad Macro.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad_Macro.NumMacPad.resources
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad_Macro.Properties.Resources.resources
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad Macro.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad Macro.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad Macro.exe
+C:\Users\aleks\source\repos\Nummpad Macro\Nummpad Macro\obj\Debug\Nummpad Macro.pdb
